@@ -1,4 +1,4 @@
-# 
+# smart MEV sniper bot | liquidity-pool-analysis + blockchain-scanning offers the most advanced MEV sniper bot, with liquidity-pool-analysis and blockchain-scanning. Ideal for
 
 
 
